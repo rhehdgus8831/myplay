@@ -1,5 +1,6 @@
    가수명          노래명
 =========================
+=== old songs ===
 비                  깡
 아이유            좋은날
 세븐틴            아주 나이스
@@ -8,3 +9,10 @@ BTS                RUN
 추가			추가
 추가			추가
 추가			추가
+=== new songs ===
+르세라핌         hot
+제니              Like jennie
+woodz            drowning
+g-dragon         too bad
+황가람             나는 반딧불
+
